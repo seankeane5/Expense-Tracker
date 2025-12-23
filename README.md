@@ -1,0 +1,1 @@
+2025-12-22 - First Draft of the Expense Tracker. I intend to add a UI using Flask or Django and a form of storage to save user data. However at this stage it is a simple expense tracker that operates in the command terminal.
